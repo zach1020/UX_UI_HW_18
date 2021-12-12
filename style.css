@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600) {
+    div {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        grid-template-areas: none;
+        grid-template-columns: none;
+        grid-template-rows: none;
+    }
+}
